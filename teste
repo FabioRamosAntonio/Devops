@@ -1,0 +1,149 @@
+$ history
+    1  ls
+    2  exit
+    3  ls
+    4  mkdir cadastro
+    5  cd cadastro/
+    6  cd ..
+    7  cd cadastro/
+    8  cd ~/
+    9  explorer .
+   10  rm cadastro
+   11  rmkdir cadastro        
+   12  rm --help
+   13  rm cadastro/
+   14  rm cadastro
+   15  rm -f cadastro
+   16  explorer .
+   17  ls
+   18  explorer .
+   19  echo
+   20  echo "ls -la" > exec.sh
+   21  ls
+   22  exec
+   23  exec.sh
+   24  sh exec
+   25  ls -la
+   26  pwd 744 exec.sh
+   27  ls -la
+   28  pwd --help
+   29  chmod --help
+   30  clear
+   31  ls
+   32  chmod 744 exec.sh
+   33  ls -la
+   34  chmod 744 exec.sh
+   35  ls -la
+   36  chmod +x exec.sh
+   37  ls -la
+   38  ./exec.sh
+   39  notepad exec.sh
+   40  ./exec.sh
+   41  cd ..
+   42  cd cadastro/
+   43  LS
+   44  ls
+   45  cd novapasta/
+   46  ls
+   47  cd pas
+   48  cd pasta_dentro/
+   49  ls
+   50  cd ^/
+   51  cd ~/
+   52  ls
+   53  cd cadastro/
+   54  ls
+   55  cd ..
+   56  putty
+   57  telnet
+   58  pwd
+   59  cd cadastro
+   60  mkdir azure
+   61  cd azure/
+   62  pwd
+   63  ssh
+   64  ssh key-gen
+   65  ssh key-gem
+   66  ssh-keygem
+   67  ssh-keygen
+   68  ssh-keygen
+   69  ssh-keygen
+   70  ssh-keygen
+   71  ls
+   72  cd ..
+   73  ls
+   74  cd azure/
+   75  ls
+   76  ls-la
+   77  ls -la
+   78  cd ..
+   79  ls -la
+   80  ls
+   81  cd 'chaves aula'/
+   82  ls
+   83  chmod 400 aula.pem
+   84  ls
+   85  ls -la
+   86  pwd
+   87  ssh -i "/c/Users/fabio/cadastro/chaves aula" fabio@20.122.140.43
+   88  ssh -i "/c/Users/fabio/cadastro/chaves aula" azureuser@20.122.140.43
+   89  pwd
+   90  cd cadastro/
+   91  ls
+   92  cd azure/
+   93  pwd
+   94  ssh-keygen
+   95  ls -la
+   96  chmod 400 azure
+   97  ls -la
+   98  ssh -i <private key path> azureuser@20.7.58.131
+   99  pwd
+  100  ssh -i  azureuser@20.7.58.131
+  101  pwd
+  102  ssh -i /c/Users/fabio/cadastro/azure azureuser@20.7.58.131
+  103  ssh -i /c/Users/fabio/cadastro/azure/azure azureuser@20.7.58.131
+  104  pwd
+  105  cd cadas
+  106  cd cadastro/
+  107  cd azure/
+  108  ssh 20.114.170.31
+  109  ls
+  110  ls-la
+  111  apt-get
+  112  aptget
+  113  apt*
+  114  cs ..
+  115  cd ~
+  116  ls -la
+  117  sudo aptget
+  118  sudo apt get
+  119  sudo apt upgrade
+  120  sudo apt upgade
+  121  sudo apt upgrade
+  122  ls -la
+  123  sudo apt get install
+  124  sudo apt-get upgrade
+  125  sudo apt upgrade
+  126  sudo apt update
+  127  ls
+  128  ssh 20.114.170.31
+  129  pwd
+  130  cd cadastro
+  131  cd azure/
+  132  ls
+  133  ssh 20.114.170.31
+  134  ssh 20.114.170.31
+  135  ls -la
+  136  cd ..
+  137  ls
+  138  cd chaves\ aula/
+  139  ls
+  140  rem aula.pem aula
+  141  mov aula.pem aula
+  142  mv aula.pem aula
+  143  ls -lass
+  144  ssh 20.114.170.31
+  145  ssh -i /c/Users/fabio/cadastro/azure/azure azureuser@20.114.170.31
+  146  ssh -i /c/Users/fabio/cadastro/azure/azure azureuser@20.230.62.73
+  147  ssh -i /c/Users/fabio/cadastro/azure/azure azureuser@20.1.183.227
+  148  history

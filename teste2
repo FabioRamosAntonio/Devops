@@ -1,2 +1,10 @@
 Teste para a inclusçai de conteudo no git
 
+Comandos Git
+git init (Inicializa novo repositorio local)
+git add adiciona um arquivo ou vários (ex git add . # varios arquivos de uma vez repositório local)
+git status (Mostra o que ejá foi adiciona e o que não foi adicionado no diretorio local)
+git commit -m " Atualizaçãod de repositorio ....) #serve para informar o que irá subir(Amara o que ira subir)
+git push #Envia os arquivos adicionados para o git na internet
+git pull #Tras do repositorio Origem para o Computador
+
